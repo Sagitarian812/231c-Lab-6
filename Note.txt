@@ -1,0 +1,3 @@
+The project now works for some reason that I'm not 100% sure why.
+The only thing I changed was I went into the settings on the Oculus app 
+and turned on Unknown Sources in the General tab.
